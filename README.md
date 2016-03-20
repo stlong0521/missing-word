@@ -25,4 +25,4 @@ Train the language model by a large training set including millions of complete 
 * Zhe Wang
 
 ## Additional information
-Please refer to the presentation slides and project report in this repository.
+Please refer to the presentation slides and project report in this repository. A brief theoretical explanation is also available on [Tianlong's blog](https://stlong0521.github.io/20160305%20-%20Missing%20Word.html).
